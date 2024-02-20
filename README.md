@@ -71,6 +71,9 @@ Here are some practical examples of using Nmap:
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/caf75124-5fec-4f99-a820-397d33e57273)
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/f3459da1-a8b7-4e38-b046-7a4a19c52612)
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/6408ef2f-0f64-4d54-9c3d-dfabf1e8d711)
+- Enables OS detection: `nmap -O 192.168.10.8`
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/8a4dffc8-c54e-4284-82ca-eebf3f80c442)
+
 
 
 
