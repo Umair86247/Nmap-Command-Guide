@@ -54,6 +54,23 @@ Here are some practical examples of using Nmap:
 - Increases verbosity level. Use multiple times for more verbosity: `nmap -v 192.168.10.8`
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/f5e94a34-018a-4112-9b92-1fc6055c8cf3)
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/d6f3d511-a231-4c36-bd43-3eca4f60c168)
+- Runs a script against the target: `nmap -sV --script vulners 192.168.10.8`
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/d55f53fb-df96-4b76-a56e-164c4d69cf54)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/ee71724b-83e1-4315-a685-76da834ce679)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/1514b718-fb02-4a88-9311-e481a5fc9c18)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/504b39d5-29c5-4da8-92ef-26820d670314)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/b46ac241-2b31-461f-84ec-2ef7e931af51)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/b2c1af26-b0cb-41ed-b583-b49ff8bde0b4)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/d2b8dc4b-3b3f-4797-87df-bbc95e166747)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/e83723ac-34d3-4788-a225-a06ef8d34d96)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/80a62579-5b06-4369-90b9-2332171dd631)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/0537803f-a5f8-4efc-8153-ac4053d628c5)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/2b91abd6-4ed8-45a0-a6b4-6573813bf748)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/b3ff10d4-bce6-4696-a25a-4948be49b1f1)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/f2d14a2f-0004-4138-8b0c-67445aed01f0)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/caf75124-5fec-4f99-a820-397d33e57273)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/f3459da1-a8b7-4e38-b046-7a4a19c52612)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/6408ef2f-0f64-4d54-9c3d-dfabf1e8d711)
 
 
 
