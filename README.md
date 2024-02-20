@@ -39,7 +39,8 @@ Refer to the [Nmap documentation](https://nmap.org/book/man.html) for a comprehe
 Here are some practical examples of using Nmap:
 - Scan a single host: `nmap 192.168.10.8`
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/c9569b0c-34c8-4a33-a2ec-743d66f42d49)
-- Scan a range of IP addresses: `nmap 192.168.1.1-100`
+- Scan a range of IP addresses: `nmap 192.168.10.8-100`
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/00e676bd-bdec-4a9c-9c51-a09dc41e03ac)
 - Scan a specific port: `nmap -p 80 192.168.1.1`
 - Perform an aggressive scan: `nmap -A 192.168.1.1`
 
