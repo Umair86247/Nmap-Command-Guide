@@ -38,11 +38,19 @@ Refer to the [Nmap documentation](https://nmap.org/book/man.html) for a comprehe
 ## Examples
 Here are some practical examples of using Nmap:
 - Scan a single host: `nmap 192.168.10.8`
-- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/c9569b0c-34c8-4a33-a2ec-743d66f42d49)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/3c0ccc21-3298-46f5-91a7-43628a115c45)
 - Scan a range of IP addresses: `nmap 192.168.10.8-100`
-- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/00e676bd-bdec-4a9c-9c51-a09dc41e03ac)
-- Scan a specific port: `nmap -p 80 192.168.1.1`
-- Perform an aggressive scan: `nmap -A 192.168.1.1`
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/2d5d6524-3316-49a1-984f-34761b41b040)
+- Scan a specific port: `nmap -p 80 192.168.10.8`
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/c2b35435-a582-4dac-a1e1-aa5047ad4151)
+- Perform an aggressive scan: `nmap -A 192.168.10.8`
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/2fb89966-569c-4fde-9950-81f53e709161)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/010f96a2-fda5-4131-885e-413d50fc4dcc)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/5d48438a-b873-4055-8a8a-5a39464f9ff8)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/7e7048e8-965d-4fae-92aa-7e617550122c)
+- ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/dc9d98fd-377d-4ab2-b1a1-b62713b667ed)
+
+
 
 ## Best Practices
 When using Nmap:
