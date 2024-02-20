@@ -49,6 +49,8 @@ Here are some practical examples of using Nmap:
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/5d48438a-b873-4055-8a8a-5a39464f9ff8)
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/7e7048e8-965d-4fae-92aa-7e617550122c)
 - ![image](https://github.com/Umair86247/Nmap-Command-Guide/assets/160429176/dc9d98fd-377d-4ab2-b1a1-b62713b667ed)
+- Enables version detection: 'nmap -sV 192.168.10.8'
+- 
 
 
 
